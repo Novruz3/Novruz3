@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Novruz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Clean+Code+%7C+Modern+UI%2FUX;Let%E2%80%99s+Build+Together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,20 +10,21 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🚀 My Tech Stack
 
-<div align="center">
-
-| Frontend | Backend | Database | Tools & State |
-|---------|---------|----------|---------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs" width="300"/> | <img src="https://skillicons.dev/icons?i=nodejs,express" width="150"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" width="200"/> | <img src="https://skillicons.dev/icons?i=redux,github" width="150"/> |
-
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=axios,sequelize" width="120" />
-  <p style="color:white;">Other Tools: Zustand, REST API, Git</p>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui" height="50" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redux,github,nodejs,express,mongodb,mysql,postgres,prisma" height="50" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=socketio" height="50" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" height="28"/>
+</p>
 
 ---
 
@@ -35,7 +36,7 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Novruz3" target="_blank">
@@ -51,4 +52,3 @@
 
 ---
 
-> 💬 *“Code is poetry. I love turning ideas into real-world solutions.”*
