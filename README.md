@@ -25,12 +25,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Novruz3&show_icons=true&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_radius=10" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Novruz3&hide_border=true&background=FFFFFF00&ring=39FF14&fire=39FF14&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="47%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novruz3&layout=compact&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=FFFFFF" width="50%" />
 </p>
+
 
 
 
